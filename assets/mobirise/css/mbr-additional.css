@@ -493,6 +493,15 @@ h6,
   color: #ffffff;
   font-size: 17px;
 }
+#pricing-table1-11 .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-11 .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#pricing-table1-11 UL {
+  font-size: 14px;
+}
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
